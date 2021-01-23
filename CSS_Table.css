@@ -1,0 +1,30 @@
+table, th, td {
+	border: 2px solid royalblue;
+}
+
+td:hover {
+	background-color: royalblue;
+	color: gold;
+}
+
+th:hover {
+	background-color: gold;
+	color:royalblue;
+}
+
+tr, th {
+		background-color: royalblue;
+		color: gold;
+}
+
+tr, td {
+		background-color: gold;
+		color: royalblue;
+}
+
+h1 {
+	margin-left:50px;
+	font-family:Courier new;
+
+}
+

@@ -1,0 +1,19 @@
+ol {
+	background: #191970;
+	padding:30px;
+	list-style-type: square;
+}
+
+ol li {
+	background: #4682B4;
+}
+
+ul {
+	background: #4682B4;
+	padding: 50px;
+	list-style-type:upper-roman;
+}
+
+ul li {
+	background: White;
+}
